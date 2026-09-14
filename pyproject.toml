@@ -1,0 +1,17 @@
+[project]
+name = "assignment1-mlops"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "gradio>=6.27.0",
+    "huggingface-hub>=1.31.0",
+    "pillow>=12.3.0",
+    "pytest>=9.1.1",
+    "python-dotenv>=1.2.3",
+    "sentencepiece>=0.2.2",
+    "torch>=2.14.0",
+    "torchvision>=0.29.0",
+    "transformers>=5.17.0",
+]

@@ -1,0 +1,9 @@
+gradio
+huggingface_hub
+transformers
+torch
+torchvision
+sentencepiece
+Pillow
+pytest
+python-dotenv
